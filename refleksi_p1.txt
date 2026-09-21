@@ -1,0 +1,10 @@
+p
+Jawab pertanyaan berikut secara singkat (2–4 kalimat per soal) pada file terpisah bernama refleksi_p1.txt atau di bagian komentar salah satu file .c Anda: 
+1. Jelaskan dengan bahasa Anda sendiri apa perbedaan antara compiler dan interpreter. 
+Jawaban : Compiler adalah program yang menerjemahkan seluruh kode sumber dari bahasa pemrograman tingkat tinggi menjadi bahasa mesin atau kode biner sebelum program dijalankan. Interpreter, di sisi lain, menerjemahkan dan mengeksekusi kode sumber baris demi baris secara langsung saat program dijalankan, sehingga tidak menghasilkan file biner terpisah.
+2. Sebutkan dua contoh penerapan bahasa C di bidang Teknik Elektro yang Anda ketahui atau temukan sendiri melalui pencarian singkat. 
+Jawaban : (1) Pengembangan perangkat lunak untuk mikrokontroler, seperti pemrograman Arduino yang menggunakan bahasa C untuk mengontrol sensor dan aktuator dalam proyek elektronik. (2) Pembuatan simulasi rangkaian listrik menggunakan software seperti SPICE, di mana bahasa C digunakan untuk menulis algoritma simulasi dan analisis rangkaian.
+3. Mengapa program C selalu membutuhkan fungsi main()? Apa yang terjadi jika fungsi ini tidak ada? 
+Jawaban : Program C selalu membutuhkan fungsi main() karena merupakan titik awal eksekusi program. Jika fungsi ini tidak ada, program tidak akan dapat dijalankan karena tidak ada fungsi utama yang menandai dimana eksekusi program dimulai.
+4. Menurut Anda, mengapa penamaan variabel yang jelas (deskriptif) penting dalam pemrograman, khususnya untuk program yang berkaitan dengan pengukuran teknik? 
+Jawaban : Penamaan variabel yang jelas dan deskriptif penting dalam pemrograman karena mempermudah pemahaman kode oleh programmer lain dan diri sendiri di masa depan. Dalam konteks pengukuran teknik, nama variabel yang jelas membantu dalam memahami nilai atau satuan dari setiap variabel, sehingga mengurangi kemungkinan kesalahan interpretasi data.
